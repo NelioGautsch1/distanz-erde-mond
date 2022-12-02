@@ -43,7 +43,6 @@ namespace distanz_erde_mond
                     textBoxResult.Text = tempo.ErhalteDauerInTagen().ToString();
                 }
                 else
-
                 {
                     textBoxResult.Text = tempo.ErhalteDauerInStunden().ToString();
                 }
